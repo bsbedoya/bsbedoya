@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31rvvguw3pr7abu3secoynkffrbq)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31rvvguw3pr7abu3secoynkffrbq&unique={true|1|on|yes})
 
 
 <!--
