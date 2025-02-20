@@ -2,7 +2,7 @@
 
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31rvvguw3pr7abu3secoynkffrbq)
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31rvvguw3pr7abu3secoynkffrbq&width={width})
+
 
 <!--
 **bsbedoya/bsbedoya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
