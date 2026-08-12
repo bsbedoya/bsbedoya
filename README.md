@@ -1,8 +1,8 @@
-< ! --
+<!--
 CONFIG
-FULL NAME: Brayan Smith Bedoya Montealegre
-GITHUB USER: bsbedoya
- -- >
+FULL_NAME: Brayan Smith Bedoya Montealegre
+GITHUB_USER: bsbedoya
+-->
 
 
 <p align="left">👋 Welcome to My GitHub!<br>Hey there! I'm an engineering student passionate about programming, systems analysis, and software development. 🚀 Here, you'll find projects I’m working on, from databases to mobile apps and web systems.<br><br>🔹 I enjoy experimenting with technologies like PostgreSQL, Docker, GitHub, API REST, and more.</p>
